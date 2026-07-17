@@ -1,16 +1,27 @@
-## Hola soy Iverson👋
+# 👋 ¡Hola! Soy Iverson Tarazona
 
-<!--
-**IversonTC/IversonTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Full Stack** de Cúcuta, Colombia. Me apasiona construir aplicaciones web eficientes y funcionales, con enfoque en calidad y experiencia de usuario.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack Tecnológico
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Frontend** | Angular, TypeScript, JavaScript, HTML5, Tailwind CSS |
+| **Backend** | Java, Node.js, PHP, SQL |
+| **Bases de datos** | MySQL, SQL Server, Oracle |
+| **Herramientas** | Git, GitHub, VS Code |
+| **Otros** | Astro, REST APIs |
+
+---
+
+## 📌 Proyectos Destacados
+
+- 🚀 **[Portafolio Personal](https://github.com/IversonTC/portafolio)** — Mi sitio personal con proyectos y experiencia (Astro + Tailwind)
+
+---
+
+## 🌐 Conéctate conmigo
+
+- **LinkedIn:** [linkedin.com/in/iverson-tarazona-contreras](https://linkedin.com/in/iverson-tarazona-contreras)
