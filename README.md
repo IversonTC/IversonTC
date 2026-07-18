@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Iverson Tarazona
 
-[Banner](./!banner.png)
+![Banner](./banner.png)
 
 </div>
 
