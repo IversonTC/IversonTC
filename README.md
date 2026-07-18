@@ -1,6 +1,9 @@
+
 <div align="center">
 
-![Banner](./banner.png)
+[Banner](./banner.png)
+
+[[GitHub Stats](https://github-readme-stats.vercel.app/api?username=IversonTC&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -19,11 +22,17 @@ Soy un desarrollador **Full Stack Junior** de Cúcuta, Colombia 🇨🇴. Me apa
 
 ---
 
-### 📈 Mi Actividad en GitHub
+### 📌 Proyectos Destacados
 
-Aquí puedes agregar tus tarjetas de estadísticas usando las herramientas que vimos:
-- **Estadísticas Generales:** Agrega tu tarjeta de `github-readme-stats` con tu nombre de usuario.
-- **Lenguajes más usados:** Agrega la tarjeta de lenguajes del mismo proyecto.
+- 🗒️ [**Note Manager**](https://github.com/IversonTC/note-manager) — App de notas con Angular 21
+- 🌐 [**Portafolio**](https://github.com/IversonTC/portafolio) — Mi sitio web personal
+
+---
+
+### 📈 Estadísticas de GitHub
+
+[[GitHub Stats](https://github-readme-stats.vercel.app/api?username=IversonTC&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
