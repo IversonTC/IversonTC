@@ -1,27 +1,34 @@
+<div align="center">
+
 # 👋 ¡Hola! Soy Iverson Tarazona
 
-**Desarrollador Full Stack** de Cúcuta, Colombia. Me apasiona construir aplicaciones web eficientes y funcionales, con enfoque en calidad y experiencia de usuario.
+[Banner](./header.png)
+
+</div>
+
+### 🚀 Sobre mí
+Soy un desarrollador **Full Stack Junior** de Cúcuta, Colombia 🇨🇴. Me apasiona crear soluciones web modernas y escalables. Actualmente enfocado en perfeccionar mi stack con Angular 21 y Java.
 
 ---
 
-## 🛠️ Stack Tecnológico
+### 🛠️ Tecnologías y Herramientas
 
 | Categoría | Tecnologías |
-|-----------|-------------|
-| **Frontend** | Angular, TypeScript, JavaScript, HTML5, Tailwind CSS |
-| **Backend** | Java, Node.js, PHP, SQL |
-| **Bases de datos** | MySQL, SQL Server, Oracle |
-| **Herramientas** | Git, GitHub, VS Code |
-| **Otros** | Astro, REST APIs |
+| :--- | :--- |
+| **Frontend** | Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Java, PHP, SQL (MySQL, SQL Server, Oracle) |
+| **Herramientas** | Git, GitHub, Vercel |
 
 ---
 
-## 📌 Proyectos Destacados
+### 📈 Mi Actividad en GitHub
 
-- 🚀 **[Portafolio Personal](https://github.com/IversonTC/portafolio)** — Mi sitio personal con proyectos y experiencia (Astro + Tailwind)
+Aquí puedes agregar tus tarjetas de estadísticas usando las herramientas que vimos:
+- **Estadísticas Generales:** Agrega tu tarjeta de `github-readme-stats` con tu nombre de usuario.
+- **Lenguajes más usados:** Agrega la tarjeta de lenguajes del mismo proyecto.
 
 ---
 
-## 🌐 Conéctate conmigo
-
-- **LinkedIn:** [linkedin.com/in/iverson-tarazona-contreras](https://linkedin.com/in/iverson-tarazona-contreras)
+### 📬 Conectemos
+- **LinkedIn:** [Iverson Tarazona](https://linkedin.com/in/iverson-tarazona-contreras)
+- **Portafolio:** [Mi Web](https://portafolio-one-bay.vercel.app)
