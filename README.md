@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Iverson Tarazona
-
 ![Banner](./banner.png)
 
 </div>
