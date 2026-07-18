@@ -3,8 +3,6 @@
 
 ![Banner](./banner.png)
 
-![[GitHub Stats](https://github-readme-stats.vercel.app/api?username=IversonTC&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ### 🚀 Sobre mí
@@ -29,12 +27,6 @@ Soy un desarrollador **Full Stack Junior** de Cúcuta, Colombia 🇨🇴. Me apa
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-![[GitHub Stats](https://github-readme-stats.vercel.app/api?username=IversonTC&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
 
 ### 📬 Conectemos
 - **LinkedIn:** [Iverson Tarazona](https://linkedin.com/in/iverson-tarazona-contreras)
